@@ -1,142 +1,279 @@
-<!-- ═══════════════════════════════════════════════════════════
-     Replace every  YOUR_USERNAME  with your GitHub username.
-     Replace the contact placeholders in the CONNECT section.
-     ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Vehan%20Rajintha&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20Programmer%20%E2%80%A2%20Network%20%26%20Security%20Enthusiast&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Vehan+%F0%9F%91%8B;Digital+Craftsman+%E2%9A%A1;Software+Dev+%7C+Ethical+Hacking+%7C+Linux+%F0%9F%90%A7;Building+secure%2C+scalable+things+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:071d2b,100:00e5ff&height=250&section=header&text=AN-DESILVA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20PROGRAMMER%20%E2%80%A2%20TECH%20ENTHUSIAST&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="Header"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=00bcd4&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&logo=github&color=0f2027&labelColor=203a43)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?label=STARS&style=for-the-badge&logo=starship&color=0f2027&labelColor=203a43)
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+An-Desilva+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;Cyber+Security+Enthusiast+%F0%9F%94%90;Linux+%26+Networking+Explorer+%F0%9F%90%A7;Turning+Ideas+Into+Digital+Solutions+%F0%9F%9A%80" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=an-desilva&label=PROFILE%20VIEWS&color=00e5ff&style=for-the-badge" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/an-desilva?label=FOLLOWERS&style=for-the-badge&logo=github&color=00e5ff&labelColor=050505" alt="Followers"/>
+
+<img src="https://img.shields.io/github/stars/an-desilva?label=STARS&style=for-the-badge&logo=github&color=00e5ff&labelColor=050505" alt="Stars"/>
 
 </div>
 
-<br/>
+---
 
-## 🧑‍💻 &nbsp;About Me
+## 👨‍💻 About Me
 
-```ts
-const vehan = {
-  role:       "Digital Craftsman — Developer / Programmer / Network & Security Enthusiast",
-  studying:   "Computer Systems & Network Engineering",
-  interests:  ["Software Development", "Ethical Hacking", "Web Development", "Linux Systems"],
-  communities:["ECD", "IEEE", "ACES"],
-  lookingFor: ["Building Websites & Apps", "Learning Linux Tools", "Linux Server Operations"],
-  motto:      "Enjoy building secure and useful solutions."
+```javascript
+const anDesilva = {
+    name: "An-Desilva",
+
+    role: "Software Developer & Programmer",
+
+    interests: [
+        "Web Development",
+        "Software Engineering",
+        "Cyber Security",
+        "Networking",
+        "Linux Systems"
+    ],
+
+    technologies: [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "Python",
+        "PHP",
+        "Java",
+        "MySQL"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Linux",
+        "Docker"
+    ],
+
+    mindset: "Learn • Build • Secure • Improve",
+
+    mission: "Creating useful, modern and secure digital solutions."
 };
 ```
 
-> 💡 *I'm a passionate IT undergraduate who loves turning ideas into working software, breaking things (ethically) to understand them, and living in the terminal.*
+> 💡 **I'm a passionate developer who enjoys transforming ideas into real applications, solving technical problems, exploring new technologies, and continuously improving my development skills.**
 
-<br/>
+---
 
-## 📊 &nbsp;GitHub Stats
+## ⚡ Developer Profile
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&langs_count=8" alt="top langs"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=ff6f00&currStreakLabel=00e5ff" alt="streak"/>
+|  💻 Development  |    🔐 Security   | 🌐 Infrastructure |
+| :--------------: | :--------------: | :---------------: |
+| Web Applications |  Ethical Hacking |       Linux       |
+| Software Systems |  Cyber Security  |     Networking    |
+|     REST APIs    | Security Testing |      Servers      |
+| Database Systems |   Secure Coding  |       Cloud       |
 
 </div>
 
-<br/>
+---
 
-## 🏆 &nbsp;Trophies
+## 🧰 Technology Arsenal
+
+### 💻 Programming & Web
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,php&perline=10" alt="Programming and Web Technologies"/>
+</p>
+
+### 🗄️ Database & Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,nodejs,express&perline=10" alt="Database and Backend Technologies"/>
+</p>
+
+### 🎨 UI / Design
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma,ps&perline=10" alt="Design Technologies"/>
+</p>
+
+### 🐧 Linux / Security / DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,docker,aws,git,github,vscode,postman,vercel&perline=10" alt="Linux Security and DevOps Tools"/>
+</p>
+
+---
+
+## 🔥 Currently Exploring
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+| 🚀 Area                      | 🎯 Focus                                  |
+| ---------------------------- | ----------------------------------------- |
+| 🤖 **AI & Machine Learning** | Understanding intelligent systems         |
+| ⚛️ **React.js**              | Modern front-end architecture             |
+| ☁️ **Cloud Computing**       | Deployment and cloud infrastructure       |
+| 🐧 **Linux Administration**  | Servers, automation and system management |
+| 🔐 **Cyber Security**        | Security concepts and ethical hacking     |
+| 🌐 **Networking**            | Network infrastructure and administration |
+| 🗄️ **Database Engineering** | Efficient and scalable data systems       |
 
 </div>
 
-<br/>
+---
 
-## 🛠️ &nbsp;Tech Stack
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### 🌐 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,python,java,php&perline=10" alt="languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=an-desilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Statistics"/>
 
-### 🎨 Design & Styling
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma,ai,ps,xd&perline=10" alt="design"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=an-desilva&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00E5FF&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 
-### ⚙️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kali,bash,docker,aws,mysql,mongodb,firebase,postman,vercel&perline=13" alt="tools"/>
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=an-desilva&theme=tokyonight&hide_border=true&background=050505&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" alt="GitHub Streak"/>
 
 </div>
 
-<br/>
+---
 
-## 🔭 &nbsp;Currently Learning
-
-| | Focus | Why |
-|:-:|:--|:--|
-| 🤖 | **Machine Learning & AI** | Deepening my knowledge of intelligent systems |
-| ⚛️ | **React.js patterns & state management** | Writing cleaner, scalable front-ends |
-| ☁️ | **Cloud computing** — AWS & Azure | Deploying and securing real-world apps |
-| 🐧 | **Linux server operations** | Admin, hardening and automation |
-| 🔐 | **Ethical hacking** | Understanding attacks to build better defences |
-
-<br/>
-
-## 🚀 &nbsp;Featured Projects
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff" />
+<img src="https://github-profile-trophy.vercel.app/?username=an-desilva&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/an-desilva/PROJECT_ONE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=an-desilva&repo=PROJECT_ONE&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF" alt="Featured Project One"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff" />
+
+<a href="https://github.com/an-desilva/PROJECT_TWO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=an-desilva&repo=PROJECT_TWO&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF" alt="Featured Project Two"/>
 </a>
 
 </div>
 
-<br/>
+---
 
-## 📈 &nbsp;Activity Graph
+## 💡 Developer Mindset
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+```text
+                 ┌───────────────┐
+                 │      IDEA     │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │     DESIGN    │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │      CODE     │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │      TEST     │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │     SECURE    │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │     DEPLOY    │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │    IMPROVE    │
+                 └───────┬───────┘
+                         │
+                         └──────────► 🔥 REPEAT
+```
+
+### **"Build things that matter. Learn things that challenge you."**
 
 </div>
 
-<br/>
+---
 
-## 🤝 &nbsp;Connect & Collaborate
+## 📈 GitHub Activity
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_NUMBER)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-
-<br/>
-
-*Open to collaborating on websites, apps and Linux/security projects — say hi!* 👋
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=an-desilva&bg_color=050505&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
-<br/>
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://raw.githubusercontent.com/an-desilva/an-desilva/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-⭐ *If you like this profile, drop a star on my repos!* ⭐
+</div>
+
+---
+
+## 🤝 Connect & Collaborate
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
+</a>
+
+<a href="https://github.com/an-desilva">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://img.shields.io/badge/INSTAGRAM-00E5FF?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
+</a>
+
+<a href="https://wa.me/YOUR_NUMBER">
+<img src="https://img.shields.io/badge/WHATSAPP-00E5FF?style=for-the-badge&logo=whatsapp&logoColor=black" alt="WhatsApp"/>
+</a>
+
+<br/><br/>
+
+**Open to collaboration, new ideas, interesting projects and opportunities.** 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:071d2b,100:050505&height=140&section=footer" width="100%" alt="Footer"/>
+
+### ⭐ Thanks for visiting my profile!
+
+**"Code • Secure • Deploy • Repeat"** ⚡
 
 </div>
