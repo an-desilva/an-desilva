@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+An-Desilva+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;Cyber+Security+Enthusiast+%F0%9F%94%90;Linux+%26+Networking+Explorer+%F0%9F%90%A7;Turning+Ideas+Into+Digital+Solutions+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+An-Desilva+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;Cyber+Security+Enthusiast+%F0%9F%94%90;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Digital+Solutions+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -32,14 +32,16 @@ const anDesilva = {
         "Web Development",
         "Software Engineering",
         "Cyber Security",
-        "Networking",
-        "Linux Systems"
+        "Cloud Computing",
+        "DevOps",
+        "Networking"
     ],
 
     technologies: [
         "JavaScript",
         "TypeScript",
         "React",
+        "Next.js",
         "Node.js",
         "Python",
         "PHP",
@@ -50,18 +52,21 @@ const anDesilva = {
     tools: [
         "Git",
         "GitHub",
+        "GitHub Actions",
         "VS Code",
-        "Linux",
-        "Docker"
+        "Docker",
+        "Postman",
+        "AWS",
+        "Vercel"
     ],
 
-    mindset: "Learn • Build • Secure • Improve",
+    mindset: "Learn • Build • Secure • Deploy • Improve",
 
     mission: "Creating useful, modern and secure digital solutions."
 };
 ```
 
-> 💡 **I'm a passionate developer who enjoys transforming ideas into real applications, solving technical problems, exploring new technologies, and continuously improving my development skills.**
+> 💡 **I'm a passionate developer who enjoys transforming ideas into real applications, solving technical problems, exploring modern technologies, and continuously improving my development skills.**
 
 ---
 
@@ -69,12 +74,12 @@ const anDesilva = {
 
 <div align="center">
 
-|  💻 Development  |    🔐 Security   | 🌐 Infrastructure |
+|  💻 Development  |    🔐 Security   | ☁️ Cloud & DevOps |
 | :--------------: | :--------------: | :---------------: |
-| Web Applications |  Ethical Hacking |       Linux       |
-| Software Systems |  Cyber Security  |     Networking    |
-|     REST APIs    | Security Testing |      Servers      |
-| Database Systems |   Secure Coding  |       Cloud       |
+| Web Applications |  Ethical Hacking |  Cloud Computing  |
+| Software Systems |  Cyber Security  |       DevOps      |
+|     REST APIs    | Security Testing |       CI/CD       |
+| Database Systems |   Secure Coding  |     Deployment    |
 
 </div>
 
@@ -100,10 +105,10 @@ const anDesilva = {
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma,ps&perline=10" alt="Design Technologies"/>
 </p>
 
-### 🐧 Linux / Security / DevOps
+### ☁️ Cloud / DevOps / Development Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,kali,bash,docker,aws,git,github,vscode,postman,vercel&perline=10" alt="Linux Security and DevOps Tools"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,git,github,githubactions,vercel,postman,vscode,bash&perline=10" alt="Cloud DevOps and Development Tools"/>
 </p>
 
 ---
@@ -113,11 +118,11 @@ const anDesilva = {
 <div align="center">
 
 | 🚀 Area                      | 🎯 Focus                                  |
-| ---------------------------- | ----------------------------------------- |
+| :--------------------------- | :---------------------------------------- |
 | 🤖 **AI & Machine Learning** | Understanding intelligent systems         |
 | ⚛️ **React.js**              | Modern front-end architecture             |
 | ☁️ **Cloud Computing**       | Deployment and cloud infrastructure       |
-| 🐧 **Linux Administration**  | Servers, automation and system management |
+| 🔄 **DevOps & CI/CD**        | Automation and continuous delivery        |
 | 🔐 **Cyber Security**        | Security concepts and ethical hacking     |
 | 🌐 **Networking**            | Network infrastructure and administration |
 | 🗄️ **Database Engineering** | Efficient and scalable data systems       |
@@ -156,12 +161,16 @@ const anDesilva = {
 
 <div align="center">
 
-<a href="https://github.com/an-desilva/PROJECT_ONE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=an-desilva&repo=PROJECT_ONE&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF" alt="Featured Project One"/>
+<a href="https://github.com/an-desilva/fishery">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=an-desilva&repo=fishery&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF" alt="Fishery Project"/>
 </a>
 
-<a href="https://github.com/an-desilva/PROJECT_TWO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=an-desilva&repo=PROJECT_TWO&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF" alt="Featured Project Two"/>
+<a href="https://github.com/an-desilva/paliyagoda_fishery_market">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=an-desilva&repo=paliyagoda_fishery_market&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF" alt="Paliyagoda Fishery Market Project"/>
+</a>
+
+<a href="https://github.com/an-desilva/mysubjects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=an-desilva&repo=mysubjects&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF" alt="MySubjects Project"/>
 </a>
 
 </div>
@@ -240,7 +249,7 @@ const anDesilva = {
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:nadeeshnuwantha0303@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
 </a>
 
@@ -248,15 +257,15 @@ const anDesilva = {
 <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/nadeesh-nuwantha-456508382/">
 <img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
+<a href="https://www.instagram.com/nadeesh_de_silva_/">
 <img src="https://img.shields.io/badge/INSTAGRAM-00E5FF?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
 </a>
 
-<a href="https://wa.me/YOUR_NUMBER">
+<a href="https://wa.me/94742947980">
 <img src="https://img.shields.io/badge/WHATSAPP-00E5FF?style=for-the-badge&logo=whatsapp&logoColor=black" alt="WhatsApp"/>
 </a>
 
