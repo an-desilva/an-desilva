@@ -236,7 +236,7 @@ const anDesilva = {
 ---
 
 
-## 🐍 Contribution Snake
+## 🐍 Neon Contribution Snake
 
 <div align="center">
 
@@ -252,13 +252,14 @@ const anDesilva = {
   />
 
   <img
-    alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/an-desilva/an-desilva/output/github-contribution-grid-snake.svg"
+    alt="Neon GitHub Contribution Snake"
   />
 
 </picture>
 
 </div>
+
 ---
 
 ## 🤝 Connect & Collaborate
