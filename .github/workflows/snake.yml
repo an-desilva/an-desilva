@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Neon Snake
 
 on:
   schedule:
@@ -19,15 +19,15 @@ jobs:
 
     steps:
 
-      - name: Generate GitHub Contribution Snake
+      - name: Generate Neon Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: an-desilva
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?palette=github-dark
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish Snake
+      - name: Publish Neon Snake
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
